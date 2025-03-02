@@ -1,5 +1,5 @@
 {
-    "name": "algolia/scout-extended",
+    "name": "onemor-app/scout-extended",
     "description": "Scout Extended extends Laravel Scout adding algolia-specific features",
     "keywords": [
         "laravel",
